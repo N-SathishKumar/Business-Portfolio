@@ -14,8 +14,17 @@ const ContactLeft = () => {
         <p className="text-lg font-normal text-gray-400">
           InfoTech
         </p>
+        <p className="text-base text-gray-400 tracking-wide">
+          Durban,
+        </p>
+        <p className="text-base text-gray-400 tracking-wide">
+          South Africa
+        </p>
+        <p className="text-base text-gray-400 tracking-wide">
+          Remote based Company
+        </p>
         <p className="text-base text-gray-400 flex items-center gap-2">
-          Phone: <span className="text-lightText">+1234567890</span>
+          Phone: <span className="text-lightText">+27 79 679 2635</span>
         </p>
         <p className="text-base text-gray-400 flex items-center gap-2">
           Email: <span className="text-lightText">nomelsinfotech@gmail.com</span>
