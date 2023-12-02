@@ -15,6 +15,9 @@ const ContactLeft = () => {
           InfoTech
         </p>
         <p className="text-base text-gray-400 flex items-center gap-2">
+          Phone: <span className="text-lightText">+1234567890</span>
+        </p>
+        <p className="text-base text-gray-400 flex items-center gap-2">
           Email: <span className="text-lightText">nomelsinfotech@gmail.com</span>
         </p>
       </div>
