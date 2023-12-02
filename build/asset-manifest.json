@@ -1,19 +1,26 @@
 {
   "files": {
-    "main.css": "/static/css/main.d8b03168.css",
-    "main.js": "/static/js/main.9a7265ac.js",
-    "static/media/bannerImg.png": "/static/media/bannerImg.caa3d5e2872e84d77cf2.png",
-    "static/media/contactImg.png": "/static/media/contactImg.8ddfbfd11798f881db54.png",
-    "static/media/testimonialOne.png": "/static/media/testimonialOne.c4706b2d1cadcb9f4daf.png",
-    "static/media/projectThree.jpeg": "/static/media/projectThree.47442baa3158613330ab.jpeg",
-    "static/media/testimonialTwo.png": "/static/media/testimonialTwo.c6df2773c486964035d9.png",
-    "static/media/projectTwo.jpg": "/static/media/projectTwo.1fabe2c8c93632187ee6.jpg",
-    "index.html": "/index.html",
-    "main.d8b03168.css.map": "/static/css/main.d8b03168.css.map",
-    "main.9a7265ac.js.map": "/static/js/main.9a7265ac.js.map"
+    "main.css": "/Business-Portfolio/static/css/main.4ab9658a.css",
+    "main.js": "/Business-Portfolio/static/js/main.98589be1.js",
+    "static/media/bannerImg.jpg": "/Business-Portfolio/static/media/bannerImg.192d101d48bc3cc4909b.jpg",
+    "static/media/ProfileTwo.jpg": "/Business-Portfolio/static/media/ProfileTwo.a42a263833e43d2a1bb3.jpg",
+    "static/media/ProfileOne.jpg": "/Business-Portfolio/static/media/ProfileOne.bcda5e4d59b6f23ddf96.jpg",
+    "static/media/ProfileThree.jpg": "/Business-Portfolio/static/media/ProfileThree.e0b3755b814f6a905ee6.jpg",
+    "static/media/contactImg.png": "/Business-Portfolio/static/media/contactImg.8ddfbfd11798f881db54.png",
+    "static/media/DataOne.jpeg": "/Business-Portfolio/static/media/DataOne.20c8ff01cc88af607d3e.jpeg",
+    "static/media/WebThree.jpeg": "/Business-Portfolio/static/media/WebThree.78b34d9214cf10c0bcff.jpeg",
+    "static/media/WebTwo.jpeg": "/Business-Portfolio/static/media/WebTwo.e18bbca69e49eab64b7c.jpeg",
+    "static/media/DataThree.jpeg": "/Business-Portfolio/static/media/DataThree.08f1cba239b196092a9b.jpeg",
+    "static/media/AppOne.jpg": "/Business-Portfolio/static/media/AppOne.1fabe2c8c93632187ee6.jpg",
+    "static/media/AppTwo.jpeg": "/Business-Portfolio/static/media/AppTwo.6f5250c67f8a6a4f382d.jpeg",
+    "static/media/AppThree.jpeg": "/Business-Portfolio/static/media/AppThree.4a305a5ff671cc3429e5.jpeg",
+    "static/media/DataTwo.jpeg": "/Business-Portfolio/static/media/DataTwo.02ca32cfde1c4f173920.jpeg",
+    "index.html": "/Business-Portfolio/index.html",
+    "main.4ab9658a.css.map": "/Business-Portfolio/static/css/main.4ab9658a.css.map",
+    "main.98589be1.js.map": "/Business-Portfolio/static/js/main.98589be1.js.map"
   },
   "entrypoints": [
-    "static/css/main.d8b03168.css",
-    "static/js/main.9a7265ac.js"
+    "static/css/main.4ab9658a.css",
+    "static/js/main.98589be1.js"
   ]
 }
