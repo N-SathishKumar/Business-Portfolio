@@ -27,7 +27,7 @@ const Services = () => {
                 : "border-transparent"
             } resumeLi`}
           >
-            Data Anaysis
+            Data Analysis
           </li>
           <li
             onClick={() =>

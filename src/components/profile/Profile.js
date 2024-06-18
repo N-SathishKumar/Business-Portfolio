@@ -121,7 +121,7 @@ const Profile = () => {
                   <div className="flex flex-col justify-between lgl:items-center py-6 border-b-2 border-b-gray-900">
                     <div>
                       <h3 className="text-xl lgl:text-2xl font-medium tracking-wide text-center">
-                        Nomels InfoTech
+                        Nomels.inc
                       </h3>
                       {/* <p className="text-base text-gray-400 mt-3">
                         via Upwork - Mar 4, 2015 - Aug 30, 2021 test
@@ -161,7 +161,7 @@ const Profile = () => {
                   <div className="flex flex-col justify-between lgl:items-center py-6 border-b-2 border-b-gray-900">
                     <div>
                       <h3 className="text-xl lgl:text-2xl font-medium tracking-wide text-center">
-                        Nomels InfoTech
+                        Nomels.inc
                       </h3>
                       {/* <p className="text-base text-gray-400 mt-3">
                         via Upwork - Mar 4, 2015 - Aug 30, 2021 test
@@ -201,7 +201,7 @@ const Profile = () => {
                   <div className="flex flex-col justify-between lgl:items-center py-6 border-b-2 border-b-gray-900">
                     <div>
                       <h3 className="text-xl lgl:text-2xl font-medium tracking-wide text-center">
-                        Nomels InfoTech
+                        Nomels.inc
                       </h3>
                       {/* <p className="text-base text-gray-400 mt-3">
                         via Upwork - Mar 4, 2015 - Aug 30, 2021 test
