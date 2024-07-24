@@ -39,7 +39,7 @@ const Contact = () => {
     } else if (message === "") {
       setErrMsg("Message is required!");
     } else {
-      emailjs.sendForm('service_vvxkof7', 'template_lkneb4k', form.current, 'Th_0s30vD3K8NOfhg')
+      emailjs.sendForm('yourServiceID', 'yourTemplateID', form.current, 'yourPublicKey')
       .then((result) => {
           console.log(result.text);
       }, (error) => {

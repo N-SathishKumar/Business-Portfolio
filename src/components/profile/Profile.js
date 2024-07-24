@@ -109,7 +109,7 @@ const Profile = () => {
                   <p className="text-xs uppercase text-designColor tracking-wide mb-2">
                     Co-Founder
                   </p>
-                  <h3 className="text-2xl font-bold">Pranav</h3>
+                  <h3 className="text-2xl font-bold">Profile 1</h3>
                   <p className="text-base tracking-wide text-gray-500">
                     Data Analyst
                   </p>
@@ -121,15 +121,12 @@ const Profile = () => {
                   <div className="flex flex-col justify-between lgl:items-center py-6 border-b-2 border-b-gray-900">
                     <div>
                       <h3 className="text-xl lgl:text-2xl font-medium tracking-wide text-center">
-                        Nomels.inc
+                        Company Name
                       </h3>
-                      {/* <p className="text-base text-gray-400 mt-3">
-                        via Upwork - Mar 4, 2015 - Aug 30, 2021 test
-                      </p> */}
                     </div>
                   </div>
                   <p className="text-base font-titleFont text-gray-400 font-medium tracking-wide leading-6">
-                    Hello! I'm Pranav, a dedicated data analyst currently interning at Beier Group in Durban, South Africa. I thrive on translating raw data into actionable strategies in the dynamic field of Fintech. Beyond data, I'm passionate about sports and entrepreneurship, believing strategic thinking from sports can seamlessly apply to business.
+                    Hello! I'm [Your Name], a dedicated data analyst with a keen eye for detail. Currently at [Company], I transform complex data into actionable insights. Passionate about [industry/area of interest]. Let's discuss how data can drive your business forward.
                   </p>
                 </div>
               </div>
@@ -149,9 +146,9 @@ const Profile = () => {
                   <p className="text-xs uppercase text-designColor tracking-wide mb-2">
                     Co-Founder
                   </p>
-                  <h3 className="text-2xl font-bold">Rizwan</h3>
+                  <h3 className="text-2xl font-bold">Profile 2</h3>
                   <p className="text-base tracking-wide text-gray-500">
-                    Data Analyst
+                    App Developer
                   </p>
                 </div>
               </div>
@@ -161,15 +158,12 @@ const Profile = () => {
                   <div className="flex flex-col justify-between lgl:items-center py-6 border-b-2 border-b-gray-900">
                     <div>
                       <h3 className="text-xl lgl:text-2xl font-medium tracking-wide text-center">
-                        Nomels.inc
+                        Company Name
                       </h3>
-                      {/* <p className="text-base text-gray-400 mt-3">
-                        via Upwork - Mar 4, 2015 - Aug 30, 2021 test
-                      </p> */}
                     </div>
                   </div>
                   <p className="text-base font-titleFont text-gray-400 font-medium tracking-wide leading-6">
-                    I'm Mohamed Rizwan, a dedicated ML engineer at Emerging Technologies, a startup based in Gujarat. Currently involved in impactful projects, I enjoy unraveling insights from complex datasets. My journey involves translating data into actionable strategies, contributing to the dynamic landscape of machine learning. Outside of tech, I'm passionate about exploring innovative solutions and the strategic aspects of the industry.
+                   I'm [Your Name], a passionate app developer crafting innovative mobile solutions. With expertise in [skills, e.g., Swift, Kotlin, React Native], I build user-centric apps. Let's bring your app idea to life! Check out my portfolio at [link]. Ready to create a standout app that exceeds expectations?
                   </p>
                 </div>
               </div>
@@ -189,7 +183,7 @@ const Profile = () => {
                   <p className="text-xs uppercase text-designColor tracking-wide mb-2">
                     Co-Founder
                   </p>
-                  <h3 className="text-2xl font-bold">Sathish Kumar</h3>
+                  <h3 className="text-2xl font-bold">Profile 3</h3>
                   <p className="text-base tracking-wide text-gray-500">
                     Web Developer
                   </p>
@@ -201,15 +195,12 @@ const Profile = () => {
                   <div className="flex flex-col justify-between lgl:items-center py-6 border-b-2 border-b-gray-900">
                     <div>
                       <h3 className="text-xl lgl:text-2xl font-medium tracking-wide text-center">
-                        Nomels.inc
+                        Company Name
                       </h3>
-                      {/* <p className="text-base text-gray-400 mt-3">
-                        via Upwork - Mar 4, 2015 - Aug 30, 2021 test
-                      </p> */}
                     </div>
                   </div>
                   <p className="text-base font-titleFont text-gray-400 font-medium tracking-wide leading-6">
-                    Hello! I'm Sathish Kumar, a passionate and skilled freelance web developer, driven to help businesses thrive online. With a blend of creativity and technical expertise, I craft visually stunning, user-friendly, and SEO-optimized websites that align with your brand and business goals.
+                  I'm [Your Name], a freelance web developer crafting digital experiences. With expertise in [skills, e.g., React, Python, UI/UX], I build high-performing websites. Let's create something amazing together! Check out my portfolio at [link]. Ready to bring your vision to life!
                   </p>
                 </div>
               </div>

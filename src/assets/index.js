@@ -9,9 +9,9 @@ import WebThree from "./images/services/WebThree.jpeg";
 import AppOne from "./images/services/AppOne.jpg";
 import AppTwo from "./images/services/AppTwo.jpeg";
 import AppThree from "./images/services/AppThree.jpeg";
-import ProfileOne from "./images/profiles/ProfileOne.jpg";
-import ProfileTwo from "./images/profiles/ProfileTwo.jpg";
-import ProfileThree from "./images/profiles/ProfileThree.jpg";
+import ProfileOne from "./images/profiles/ProfileOne.png";
+import ProfileTwo from "./images/profiles/ProfileTwo.png";
+import ProfileThree from "./images/profiles/ProfileThree.png";
 import quote from "./images/profiles/quote.png";
 import contactImg from "./images/contact/contactImg.png";
 

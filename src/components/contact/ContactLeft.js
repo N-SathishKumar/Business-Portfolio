@@ -10,24 +10,15 @@ const ContactLeft = () => {
         alt="contactImg"
       />
       <div className="flex flex-col gap-4">
-        <h3 className="text-3xl font-bold text-white">Nomels</h3>
-        <p className="text-lg font-normal text-gray-400">
-          InfoTech
-        </p>
+        <h3 className="text-3xl font-bold text-white">Company Name</h3>
         <p className="text-base text-gray-400 tracking-wide">
-          Durban,
-        </p>
-        <p className="text-base text-gray-400 tracking-wide">
-          South Africa
-        </p>
-        <p className="text-base text-gray-400 tracking-wide">
-          Remote based Company
+          Address
         </p>
         <p className="text-base text-gray-400 flex items-center gap-2">
-          Phone: <span className="text-lightText">+27 79 679 2635</span>
+          Phone: <span className="text-lightText">+12 345 567 89</span>
         </p>
         <p className="text-base text-gray-400 flex items-center gap-2">
-          Email: <span className="text-lightText">nomelsinfotech@gmail.com</span>
+          Email: <span className="text-lightText">suppot@company.com</span>
         </p>
       </div>
     </div>
